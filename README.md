@@ -9,3 +9,8 @@
     - Got me interested in linux
     - Eventually learned programming and development of linux
 - 👨‍🔧 Life is a lesson, and I've learned just enough
+<!--
+I am just a pathetic creature made up of bone and flesh. I act on different signals from processed acoustic and visual waves into emotions on which my neurons think and perform actions, just a set of predefined elements and mechanizing on saved data.
+
+I am not a human. I don't matter. Neither does everything I've done and put effort for, nor my existence.
+-->
