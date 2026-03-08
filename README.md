@@ -5,7 +5,7 @@
 - 📫 How to reach me: Fly 🛸 <!-- I might add something to reach out to me... -->
 - ⚡ Fun fact: I love Gaming 🪁
 - 🐧 First device to experience linux: Raspberry Pi3
-- 👨‍🔧 Life is a lesson, and I'm stil learning.
+- 👨‍🔧 Life is a lesson, and I'm still learning.
 <!--
 I am just a pathetic creature made up of bone and flesh. I act upon different wavelengths of signals from processed acoustic and visual waves into electrical pulses on which my neurons think and perform actions, just a set of predefined elements and mechanizing on saved data.
 
